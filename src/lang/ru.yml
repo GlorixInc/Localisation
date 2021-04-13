@@ -24,12 +24,12 @@ SWDArenaSelector:
   lines:
   - '&6&lSkyWars Doubles'
   - '&fОнлайн игроков %s'
-  - '&fНажмите для выбора арены
+  - '&fНажмите для выбора арены'
 SWTArenaSelector:
   lines:
   - '&6&lSkyWars Team'
   - '&fОнлайн игроков %s'
-  - '&fНажмите для выбора арены
+  - '&fНажмите для выбора арены'
 
 #
 # Скорборд Lobby
