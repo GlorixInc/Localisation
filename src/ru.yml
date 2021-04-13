@@ -15,6 +15,22 @@ Grief:
   - '&6&lGrief'
   - '&fОнлайн игроков %s'
   - '&fНажмите для подключения'
+SWSArenaSelector:
+  lines:
+  - '&6&lSkyWars Solo'
+  - '&fОнлайн игроков %s'
+  - '&fНажмите для выбора арены'
+SWDArenaSelector:
+  lines:
+  - '&6&lSkyWars Doubles'
+  - '&fОнлайн игроков %s'
+  - '&fНажмите для выбора арены
+SWTArenaSelector:
+  lines:
+  - '&6&lSkyWars Team'
+  - '&fОнлайн игроков %s'
+  - '&fНажмите для выбора арены
+
 #
 # Скорборд Lobby
 #
