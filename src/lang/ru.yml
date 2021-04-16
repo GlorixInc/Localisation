@@ -47,6 +47,11 @@ LobbyParkour:
     Already-In-Parkour: "§сParkour §8| §fВы уже проходите паркур"
     Teleport: "§6Parkour §8| §fВы были телепортированы на чекпоинт"
     ConnectError: "§сParkour §8| §fПотеряно соеденение с MySQL, паркур временно выключен"
+    Checkpoint: "§6Parkour §8| §fВы прошли чекпоинт &e#%s"
+    Not-Started: "§cParkour §8| §fОшибка, вы и не начинали паркур.."
+    End: "§6Parkour §8| §fВы прошли паркур, и получили &e50&f монет!"
+    Fly_Dislabe: "§cParkour §8| §fИспользование полета на паркуре запрещено! Прохождение отменено!"
+    Not-Enough-Checkpoints: "§cParkour §8| §fВы пропустили чекпоинт, прохождение отменено :("
 #
 # Proxy локализация
 #
