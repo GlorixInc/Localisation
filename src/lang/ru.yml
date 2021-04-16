@@ -37,7 +37,15 @@ Lobby_Board:
       - "&fОбщий онлайн: &e%s"
       - "&f "
       - "&ewww.onrix.tk"
-
+#
+# Ключи локализации паркура
+#
+LobbyParkour:
+  Messages:
+    Started: "§6Parkour §8| §fВы начали проходить паркур, в конце вы получите §e50 §fмонет."
+    Restarted: "§6Parkour §8| §fВы успешно перезапустили паркур"
+    Already-In-Parkour: "§сParkour §8| §fВы уже проходите паркур"
+    Teleport: "§6Parkour §8| §fВы были телепортированы на чекпоинт"
 #
 # Proxy локализация
 #
