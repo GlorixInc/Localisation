@@ -46,6 +46,7 @@ LobbyParkour:
     Restarted: "§6Parkour §8| §fВы успешно перезапустили паркур"
     Already-In-Parkour: "§сParkour §8| §fВы уже проходите паркур"
     Teleport: "§6Parkour §8| §fВы были телепортированы на чекпоинт"
+    ConnectError: "§сParkour §8| §fПотеряно соеденение с MySQL, паркур временно выключен"
 #
 # Proxy локализация
 #
