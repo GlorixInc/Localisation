@@ -40,18 +40,13 @@ Lobby_Board:
 #
 # Ключи локализации паркура
 #
-LobbyParkour:
-  Messages:
-    Started: "§6Parkour §8| §fВы начали проходить паркур, в конце вы получите §e50 §fмонет."
-    Restarted: "§6Parkour §8| §fВы успешно перезапустили паркур"
-    Already-In-Parkour: "§сParkour §8| §fВы уже проходите паркур"
-    Teleport: "§6Parkour §8| §fВы были телепортированы на чекпоинт"
-    ConnectError: "§сParkour §8| §fПотеряно соеденение с MySQL, паркур временно выключен"
-    Checkpoint: "§6Parkour §8| §fВы прошли чекпоинт &e#%s"
-    Not-Started: "§cParkour §8| §fОшибка, вы и не начинали паркур.."
-    End: "§6Parkour §8| §fВы прошли паркур, и получили &e50&f монет!"
-    Fly_Dislabe: "§cParkour §8| §fИспользование полета на паркуре запрещено! Прохождение отменено!"
-    Not-Enough-Checkpoints: "§cParkour §8| §fВы пропустили чекпоинт, прохождение отменено :("
+ParkourMessages:
+  prefix: '&6Parkour &8| &f'
+  nopermission: 'Неизвестная команда!'
+  start: 'Вы начали прохождения паркура!'
+  end: 'Вы прошли паркур за &c%mins%м &fи &c%secs%c&f.'
+  endmessages: 'Вы получили приз в размере &e50&f монеток.'
+  usefly: 'Вы включили полет, прохождение паркура прервано!'
 #
 # Proxy локализация
 #
